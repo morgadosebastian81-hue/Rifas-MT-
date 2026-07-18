@@ -1,1 +1,5 @@
-# Rifas-MT-
+# Rifas-MT-app/
+components/
+lib/
+public/
+styles/
